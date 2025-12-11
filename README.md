@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thaqif
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web developmet
+- 🌱 I’m currently learning full stack web development (wish me luck XD)
 - 📫 How to reach me at mohdthaqif06@gmail.com
 
 <!---
